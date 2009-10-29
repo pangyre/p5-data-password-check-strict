@@ -1,8 +1,10 @@
 Name
 Version
-    0.01
+    0.01_01
 
 Description
+    This is an experimental package.
+
 Synopsis
      use Data::Password::Check::Strict
 
@@ -21,9 +23,6 @@ Author
 License
     The parts of this library which is Yesh specific is free software. You
     can redistribute and modify it under the same terms as Perl itself.
-
-    Some third party software, e.g. jQuery, may also included in this
-    distribution. Please see Yesh::Manual::ThirdParty for more about that.
 
 Disclaimer of Warranty
     Because this software is licensed free of charge, there is no warranty

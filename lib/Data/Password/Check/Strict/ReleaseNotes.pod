@@ -2,7 +2,7 @@
 
 =head1 Data::Password::Check::Strict Relase Notes
 
-=head2 0.01 20091028
+=head2 0.01_01 20091028
 
 =over 4
 
