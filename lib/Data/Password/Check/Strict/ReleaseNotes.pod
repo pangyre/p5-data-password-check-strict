@@ -1,0 +1,15 @@
+=pod
+
+=head1 Data::Password::Check::Strict Relase Notes
+
+=head2 0.01 20091028
+
+=over 4
+
+=item First release
+
+This is an experimental package.
+
+=back
+
+=cut
